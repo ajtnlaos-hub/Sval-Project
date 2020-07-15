@@ -4,11 +4,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Web-green.svg"/>
-  <img src="http://img.shields.io/badge/library-React-blue.svg"/>
-  <img src="https://img.shields.io/badge/framework-JPA, Spring boot-brightgreen.svg"/>
+  <img src="https://img.shields.io/badge/framework-JPA, React, Spring boot-brightgreen.svg"/>
   <img src="https://img.shields.io/badge/database-MariaDB-skyblue.svg"/>
   <img src="https://img.shields.io/badge/server-AWS-yellow.svg"/>
-  <img src="https://img.shields.io/badge/language-Java, JavaScript-orange.svg"/>
+  <img src="https://img.shields.io/badge/language-Java, TypeScript-orange.svg"/>
 </p>
 
 &nbsp;&nbsp;&nbsp;반응형 웹(Responsive Web) &nbsp;&nbsp;&nbsp;by. <a href="https://github.com/JunSeongA" target="_blank">박준성</a>, <a href="https://github.com/hackthegist" target="_blank">배성호</a>, <a href="https://github.com/Imsunwoo-hub" target="_blank">임선우</a>, <a href="https://github.com/simmmba" target="_blank">조서원</a>
